@@ -1,8 +1,6 @@
 **NDVI Forecasting Project for Agricultural Equipment Lending.** 
 
-This project forecasts NDVI (Normalized Difference Vegetation Index) values to assist a tractor and equipment lending company in gauging vegetation health and expanding their business based on vegetation cover. Utilizing MODIS13Q1 data from Google Earth Engine, the project is implemented in Python with Jupyter notebooks and includes the following components:
-
-# NDVI Forecasting Pipeline using Deep Learning and Satellite Imagery
+This project forecasts NDVI (Normalized Difference Vegetation Index) values to assist a tractor and equipment lending company in gauging vegetation health and expanding their business based on vegetation cover.
 
 This project presents an end-to-end pipeline that automates the downloading, processing, and forecasting of NDVI (Normalized Difference Vegetation Index) data using MODIS satellite products. Built for precision agriculture and agri-tech applications, the project is especially useful for organizations such as tractor lending platforms and farm management systems.
 
